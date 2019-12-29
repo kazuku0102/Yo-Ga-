@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E7ADBCE423B22C4200C5F061 /* HomeWork#3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HomeWork#3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7ADBCE423B22C4200C5F061 /* YO!GA!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YO!GA!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7ADBCE723B22C4200C5F061 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7ADBCE923B22C4200C5F061 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E7ADBCEB23B22C4200C5F061 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E7ADBCE523B22C4200C5F061 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E7ADBCE423B22C4200C5F061 /* HomeWork#3.app */,
+				E7ADBCE423B22C4200C5F061 /* YO!GA!.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "HomeWork#3";
 			productName = "HomeWork#3";
-			productReference = E7ADBCE423B22C4200C5F061 /* HomeWork#3.app */;
+			productReference = E7ADBCE423B22C4200C5F061 /* YO!GA!.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -290,8 +290,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shelly.HomeWork-3";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shelly.HomeWork3;
+				PRODUCT_NAME = "YO!GA!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -307,8 +307,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shelly.HomeWork-3";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shelly.HomeWork3;
+				PRODUCT_NAME = "YO!GA!";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
